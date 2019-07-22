@@ -72,6 +72,7 @@ JAYATI SHRIVASTAVA
 - [sixlim] (https://github.com/sixlim)
 - [Nameet Nayak] (https://github.com/nayaknameet)
 - [Ben Penwell] (https://github.com/bpenwell)
+- [Maurizio Korri] (https://github.com/MaurizioKorri)
 - [M. Bullock] (https://github.com/mb-21)
 - [Robbe Decorte] (https://github.com/robbedec)
 - [Yasir Nadeem](https://github.com/m-yasir)
